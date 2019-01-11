@@ -1734,7 +1734,7 @@ body {
 .cid-reFqONERNL .card-img {
   border-radius: 0;
   padding: 2rem 2rem 0 2rem;
-  background-color: #149dcc;
+  background-color: #538d15;
 }
 .cid-reFqONERNL .card-img span {
   font-size: 100px;
@@ -1742,8 +1742,8 @@ body {
 }
 .cid-reFqONERNL .card-box {
   padding-bottom: 2rem;
-  background-color: #149dcc;
-  background: linear-gradient(#149dcc, transparent);
+  background-color: #538d15;
+  background: linear-gradient(#538d15, transparent);
 }
 .cid-reFqONERNL .card-box .card-title {
   margin: 0;
@@ -1799,6 +1799,9 @@ body {
 .cid-reFqQob9IE hr {
   margin: 2rem 0;
 }
+.cid-reFqQob9IE P {
+  text-align: center;
+}
 .cid-reKKtCFao3 {
   padding-top: 45px;
   padding-bottom: 90px;
@@ -1853,7 +1856,7 @@ body {
   color: #ffffff;
 }
 .cid-reKKtCFao3 .countdown-cont {
-  background: linear-gradient(45deg, #149dcc, #c8ceaf);
+  background: linear-gradient(45deg, #149dcc, #538d15);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
@@ -1945,7 +1948,7 @@ body {
 .cid-reMkCjLqJj {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-reMkCjLqJj .mbr-section-subtitle {
   color: #767676;
@@ -2057,10 +2060,55 @@ body {
   font-size: 80px;
   color: #149dcc;
 }
+.cid-reRO8uSSmz {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-reRO8uSSmz .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-reRO8uSSmz .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-reRO8uSSmz .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-reRO8uSSmz .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-reRO8uSSmz .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-reRO8uSSmz .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-reRO8uSSmz .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-reRO8uSSmz .btn-social {
+  border: none !important;
+}
+.cid-reRO8uSSmz [class^="socicon-"]:before,
+.cid-reRO8uSSmz [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-reRO8uSSmz .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-reR6EIVzTE {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #2e2e2e;
+  background-color: #538d15;
 }
 @media (max-width: 767px) {
   .cid-reR6EIVzTE .content {
